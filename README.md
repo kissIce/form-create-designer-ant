@@ -18,14 +18,14 @@
 **NodeJs:**
 
 ```shell
-npm install ant-form-designer
+npm install antv-form-designer
 ```
 
 请自行导入`Ant-Design-Vue`并挂载
 
 ```js
 import formCreate from '@form-create/ant-design-vue'
-import AceDesigner from 'ant-form-designer'
+import AceDesigner from 'antv-form-designer'
 
 app.use(formCreate)
 app.use(AceDesigner)
