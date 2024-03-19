@@ -27113,6 +27113,7 @@ Ai.component = z0;
 Ai.useLocale = bm;
 Ai.t = jc;
 export {
+  aO as ColorPicker,
   Ai as default,
   Ut as designerForm,
   ud as formCreate,
