@@ -1,6 +1,6 @@
 {
   "name": "antv-form-designer",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "基于@form-create实现的的ant-design-vue可视化表单设计器组件",
   "unpkg": "./dist/index.umd.js",
   "jsdelivr": "./dist/index.umd.js",
